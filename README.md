@@ -2,7 +2,7 @@
 SMOKING DETECTION !!
 
 
-Google Collab: https://colab.research.google.com/drive/1K7Z0erzqqzwsEWDWPgLMbUdApuuzdWii#scrollTo=ZhAz9JVuiDDD&uniqifier=4
+Google Collab: https://colab.research.google.com/drive/18WlQFxrg6vEe1UFc6mGL_87OcyygOTDi?usp=sharing
 *************************************************************************************************************************************************************************
 
 TEAM:
