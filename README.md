@@ -7,9 +7,9 @@ Google Collab: https://colab.research.google.com/drive/18WlQFxrg6vEe1UFc6mGL_87O
 
 TEAM:
 
-1>ARUACHALAM M
+1) ARUACHALAM M
 
-2>SAMYUKTHA KATHIRVEL
+2) SAMYUKTHA KATHIRVEL
 
 
 *************************************************************************************************************************************************************************
